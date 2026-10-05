@@ -56,10 +56,14 @@ I enjoy turning data into **insights, predictive models, dashboards, and intelli
 <img src="https://github-readme-stats.vercel.app/api?username=MB1699&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 </a>
 <a href="https://github.com/MB1699">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MB1699&layout=compact&theme=tokyonight&hide_border=true&langs_count=6"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MB1699&layout=compact&theme=tokyonight&hide_border=true&langs_count=3"/>
 </a>
 </p>
 
+## 💻 Core Technologies
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ---
 
 ## 🔥 GitHub Streak
