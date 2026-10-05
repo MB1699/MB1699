@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Muskan Bhatt!
 
-### 📊 Data Analytics | 🤖 Machine Learning | 🧠 AI | ☁️ Data Engineering
+### 📊 Data Analytics | 🤖 Machine Learning | 🧠 AI 
 
 ## 👋 About Me
 
