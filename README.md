@@ -1,8 +1,8 @@
 # 👋 Hey, I'm Muskan Bhatt!
 
-### 📊 Data Analytics | 🤖 Machine Learning | 🧠 AI | ☁️ Data Engineering
+### 📊 Data Analytics | 🤖 Machine Learning | 🧠 AI 
 
-I’m a Master's in Analytics graduate from **Northeastern University** with 3+ years of experience across **Data Analytics, Data Engineering, Business Intelligence, Machine Learning, and AI**.
+I’m a Master's in Analytics graduate from **Northeastern University** with 3+ years of experience across **Data Analytics, Business Intelligence, Machine Learning, and AI**.
 
 I enjoy turning data into **insights, predictive models, dashboards, and intelligent applications.**
 
